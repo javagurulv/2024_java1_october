@@ -1,0 +1,4 @@
+Запросить у преподавателя и получить доступ к
+GitHub репозиторию курса.
+
+https://github.com/javagurulv/introduction-to-java-open-part

@@ -1,0 +1,10 @@
+class LoginService {
+
+	public void main(String[] args) {
+		System.out.println("You can login!");
+	}
+
+}
+
+Цель этого задания: обратить ваше внимание на синтаксис
+объявления main() метода в языке программирования Java.
