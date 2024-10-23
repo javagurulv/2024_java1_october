@@ -5,17 +5,18 @@
 
 ### Программа курса
 
-1. Software Setup
-2. Variables and Data Types
-3. OOP First Look
-4. If Statement
-5. Methods
-6. Unit Testing
-7. Arrays and loops (part 1)
-8. Arrays and loops (part 2)
-9. Project School Dairy (business logic)
-10. Project School Dairy (console ui)
-11. ...
+1. LECTURE 1 - Software setup, Git, GitHub, IDEA, JDK
+2. LECTURE 2 - Variables and data types
+3. LECTURE 3 - OOP first look
+4. LECTURE 4 - if statement, boolean data type, conditions
+5. LECTURE 5 - methods
+6. LECTURE 6 - unit testing
+7. LECTURE 7 - arrays, for
+8. LECTURE 8 - project school dairy: business logic, data model
+9. LECTURE 9 - project school dairy: UI
+10. LECTURE 10 - inheritance
+11. LECTURE 11 - collections
+12. LECTURE 12 - Stream API
 
 #### Предварительные требования
 
@@ -38,10 +39,5 @@
 * [Java 8 in Action](https://isbnsearch.org/isbn/9781617291999)
 * [Practical Unit Testing with JUnit and Mockito](https://isbnsearch.org/isbn/9788393489398)
 * [Clean Code](https://isbnsearch.org/isbn/9780132350884)
-
-#### Поддержка, вопросы и обратная связь по проекту
-* [Телеграмм группа проекта](https://t.me/+YmrodVgEq88xYjU0)
-* [Телеграмм автора курса] (javagurulv)
-* [Емейл автора курса] (viktor.savonin@gmail.com)
 
 ![build](https://github.com/javagurulv/2024_java1_autumn/actions/workflows/build.yaml/badge.svg)
